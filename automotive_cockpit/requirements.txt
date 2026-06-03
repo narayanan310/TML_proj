@@ -1,0 +1,8 @@
+pydantic>=2.0.0
+PyQt6>=6.0.0
+vosk>=0.3.45
+llama-cpp-python>=0.2.0
+pyttsx3>=2.90
+sounddevice>=0.4.6
+numpy>=1.20.0
+huggingface-hub>=0.20.0
